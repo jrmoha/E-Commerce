@@ -128,3 +128,13 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+views
+public/images
+public/script/bootstrap.bundle.min.js
+public/script/all.min.js
+public/script/jquery.js
+public/script/sb-admin-2.js
+public/scss
+public/style
+public/webfonts
